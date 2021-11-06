@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "未命名.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "80464ae83950379d"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#什么事",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,9 +120,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8558289bdbb16662",
+  "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
     "未命名.md",
+    "本草新编/人参.md",
     "未命名-Tennsi.md",
     "本草新编/人参.md",
     "本草新编/鹿茸.md",
