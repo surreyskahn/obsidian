@@ -2,5 +2,6 @@
   "promptDelete": true,
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": true,
-  "useTab": false
+  "useTab": false,
+  "showFrontmatter": true
 }
