@@ -1,25 +1,15 @@
 {
   "main": {
-    "id": "4449ff88c147791b",
+    "id": "d5cdd3c7bb93b18b",
     "type": "split",
     "children": [
       {
-        "id": "78bf0bcaa80e157a",
+        "id": "63f0c1febb0bb46a",
         "type": "leaf",
         "state": {
           "type": "empty",
           "state": {}
-        },
-        "group": "6e3a3edafbd73c8b"
-      },
-      {
-        "id": "fb1a60d5ab5240fc",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "6e3a3edafbd73c8b"
+        }
       }
     ],
     "direction": "vertical"
@@ -92,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78bf0bcaa80e157a",
+  "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
     "未命名.md",
     "未命名-Tennsi.md",
