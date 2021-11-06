@@ -12,7 +12,20 @@
             "file": "未命名.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "80464ae83950379d"
+      },
+      {
+        "id": "8558289bdbb16662",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        },
+        "group": "80464ae83950379d"
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
