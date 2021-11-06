@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": true,
   "useTab": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "autoConvertHtml": false
 }
