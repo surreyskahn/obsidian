@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "4449ff88c147791b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78bf0bcaa80e157a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/人参.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cf7373904a84baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a892a4f927341673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5af54d43e3d46b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18e708426b75ea86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c41c12251f33004",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7011923507e6134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c8d888bd2406486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "本草新编/人参.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "78bf0bcaa80e157a",
+  "lastOpenFiles": [
+    "本草新编/人参.md",
+    "README.md",
+    "未命名.md"
+  ]
+}
