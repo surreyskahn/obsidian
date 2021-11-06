@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#什么事",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63f0c1febb0bb46a",
+  "active": "8558289bdbb16662",
   "lastOpenFiles": [
     "未命名.md",
     "未命名-Tennsi.md",
