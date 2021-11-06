@@ -7,11 +7,8 @@
         "id": "78bf0bcaa80e157a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/人参.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "6e3a3edafbd73c8b"
       },
@@ -19,11 +16,8 @@
         "id": "fb1a60d5ab5240fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/人参.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "6e3a3edafbd73c8b"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/人参.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +94,10 @@
   },
   "active": "78bf0bcaa80e157a",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名-Tennsi.md",
     "本草新编/人参.md",
     "本草新编/鹿茸.md",
-    "未命名.md",
     "README.md"
   ]
 }
