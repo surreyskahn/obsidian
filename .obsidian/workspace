@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "cf45cc08a0a62269",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/人参.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78bf0bcaa80e157a",
+  "active": "cf45cc08a0a62269",
   "lastOpenFiles": [
     "本草新编/人参.md",
     "README.md",
