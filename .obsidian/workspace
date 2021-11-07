@@ -7,8 +7,11 @@
         "id": "63f0c1febb0bb46a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "辨症玉函/头痛.md",
+            "mode": "source"
+          }
         },
         "group": "61d60cdde4a9f227"
       },
@@ -18,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/黄芪.md",
+            "file": "辨症玉函/头痛.md",
             "mode": "preview"
           }
         },
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "辨症玉函/头痛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "辨症玉函/头痛.md"
+              }
             }
           }
         ]
@@ -116,6 +122,7 @@
   },
   "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
+    "辨症玉函/头痛.md",
     "本草新编/黄芪.md",
     "本草新编/人参.md",
     "未命名.md",
