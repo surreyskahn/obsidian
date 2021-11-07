@@ -2,5 +2,7 @@
   "baseFontSize": 16,
   "translucency": true,
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "obsidian (2)"
+  ]
 }
