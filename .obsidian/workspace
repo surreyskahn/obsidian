@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/黄芪.md",
+            "file": "本草新编/人参.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/黄芪.md",
+            "file": "本草新编/人参.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/黄芪.md",
+                "file": "本草新编/人参.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/黄芪.md"
+                "file": "本草新编/人参.md"
               }
             }
           }
@@ -122,8 +122,8 @@
   },
   "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
-    "本草新编/黄芪.md",
     "本草新编/人参.md",
+    "本草新编/黄芪.md",
     "未命名.md",
     "未命名-Tennsi.md",
     "本草新编/鹿茸.md",
