@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "方剂/开窍剂.md",
+            "file": "方剂/治燥剂.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "方剂/开窍剂.md",
+            "file": "方剂/治燥剂.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂/开窍剂.md",
+                "file": "方剂/治燥剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方剂/开窍剂.md"
+                "file": "方剂/治燥剂.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
+    "方剂/治燥剂.md",
+    "方剂/治风剂.md",
+    "方剂/理血剂.md",
+    "方剂/理气剂.md",
     "方剂/开窍剂.md",
     "方剂/安神剂.md",
     "方剂/固涩剂.md",
     "方剂/补益剂.md",
     "方剂/表里双解剂.md",
-    "方剂/泻下剂.md",
-    "方剂/温里剂.md",
-    "方剂/淸热剂.md",
-    "方剂/和解剂.md",
-    "方剂/解表剂.md"
+    "方剂/泻下剂.md"
   ]
 }
