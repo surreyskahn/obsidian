@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "方剂/解表剂.md",
+            "file": "方剂/未命名.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "方剂/解表剂.md",
+            "file": "方剂/未命名.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "方剂/解表剂.md",
+                "file": "方剂/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "方剂/解表剂.md"
+                "file": "方剂/未命名.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "63f0c1febb0bb46a",
   "lastOpenFiles": [
+    "方剂/未命名.md",
     "方剂/解表剂.md",
     "本草新编/甘草.md",
     "本草新编/黄芪.md",
