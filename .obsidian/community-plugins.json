@@ -1,8 +1,6 @@
 [
   "obsidian-git",
   "obsidian-pangu",
-  "obsidian-auto-pair-chinese-symbol",
   "better-word-count",
-  "remember-cursor-position",
-  "cm-chs-patch"
+  "remember-cursor-position"
 ]
