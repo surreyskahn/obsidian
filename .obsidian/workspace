@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "辨症玉函/头痛.md",
+            "file": "本草新编/甘草.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "3bce11ee1eb93307"
       },
       {
-        "id": "60ce86920cbd2718",
+        "id": "b6c7ca1039f2b1eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "辨症玉函/头痛.md",
+            "file": "本草新编/甘草.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "3bce11ee1eb93307"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "辨症玉函/头痛.md",
+                "file": "本草新编/甘草.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "辨症玉函/头痛.md"
+                "file": "本草新编/甘草.md"
               }
             }
           }
@@ -120,10 +122,10 @@
   },
   "active": "cf9ff464c2865b06",
   "lastOpenFiles": [
+    "本草新编/甘草.md",
     "辨症玉函/头痛.md",
     "本草新编/人参.md",
     "本草新编/黄芪.md",
-    "本草新编/甘草.md",
     "宋本伤寒/辨太阳病脉证并治（下）第七.md",
     "宋本伤寒/辨太阳病脉证并治（中）第六.md",
     "宋本伤寒/辨太阳病脉证并治（上）第五.md",
