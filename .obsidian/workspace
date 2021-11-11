@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/宫/熟地.md",
+            "file": "本草新编/宫/苍术.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/宫/熟地.md",
+            "file": "本草新编/宫/苍术.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/宫/熟地.md",
+                "file": "本草新编/宫/苍术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/宫/熟地.md"
+                "file": "本草新编/宫/苍术.md"
               }
             }
           }
@@ -122,10 +122,10 @@
   },
   "active": "cf9ff464c2865b06",
   "lastOpenFiles": [
-    "本草新编/宫/熟地.md",
     "本草新编/宫/苍术.md",
     "本草新编/白术.md",
     "本草新编/黄芪.md",
+    "本草新编/宫/熟地.md",
     "本草新编/甘草.md",
     "辨症玉函/头痛.md",
     "本草新编/人参.md",
