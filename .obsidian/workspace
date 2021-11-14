@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/柴胡.md",
+            "file": "本草新编/商/未命名.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/柴胡.md",
+            "file": "本草新编/商/未命名.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/商/柴胡.md",
+                "file": "本草新编/商/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/商/柴胡.md"
+                "file": "本草新编/商/未命名.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
-    "本草新编/商/柴胡.md",
-    "本草新编/商/羌活.md",
-    "本草新编/商/补骨脂.md",
-    "本草新编/宫/人参.md",
-    "本草新编/宫/黄芪.md",
-    "本草新编/商/肉苁蓉.md",
-    "本草新编/商/金钗石斛.md",
-    "本草新编/商/知母.md",
-    "本草新编/商/山药.md",
-    "本草新编/商/薏苡仁.md"
+    "本草新编/商/未命名.md",
+    "本草新编/商/贝母.md",
+    "本草新编/商/紫菀.md",
+    "本草新编/商/栝蒌实.md",
+    "本草新编/商/桔梗.md",
+    "本草新编/商/黄连.md",
+    "本草新编/商/黄芩.md",
+    "本草新编/商/芍药.md",
+    "本草新编/商/川芎.md",
+    "本草新编/商/五加皮.md"
   ]
 }
