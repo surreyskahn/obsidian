@@ -7,8 +7,11 @@
         "id": "c002aca6c965be79",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/宫/石菖蒲.md",
+            "mode": "source"
+          }
         },
         "group": "692323f7f8a23f47"
       },
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/宫/石菖蒲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/宫/石菖蒲.md"
+              }
             }
           },
           {
