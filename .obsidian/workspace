@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/款冬花.md",
+            "file": "本草新编/宫/牛膝.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/款冬花.md",
+            "file": "本草新编/宫/牛膝.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/商/款冬花.md",
+                "file": "本草新编/宫/牛膝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +109,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/商/款冬花.md"
+                "file": "本草新编/宫/牛膝.md"
               }
             }
+          },
+          {
+            "id": "e09c9d56e915ab86",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,6 +131,8 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "本草新编/宫/牛膝.md",
+    "本草新编/宫/白术.md",
     "本草新编/商/款冬花.md",
     "本草新编/商/贝母.md",
     "本草新编/商/紫菀.md",
@@ -129,8 +140,6 @@
     "本草新编/商/桔梗.md",
     "本草新编/商/黄连.md",
     "本草新编/商/黄芩.md",
-    "本草新编/商/芍药.md",
-    "本草新编/商/川芎.md",
-    "本草新编/商/五加皮.md"
+    "本草新编/商/芍药.md"
   ]
 }
