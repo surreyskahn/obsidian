@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 50.523311132255,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/宫/石菖蒲.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "692323f7f8a23f47"
       },
@@ -83,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/宫/石菖蒲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "本草新编/宫/石菖蒲.md"
-              }
+              "state": {}
             }
           },
           {
