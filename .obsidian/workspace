@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 50.523311132255,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "宋本伤寒/辨太阳病脉证并治（中）第六.md",
+            "mode": "source"
+          }
         },
         "group": "692323f7f8a23f47"
       },
@@ -20,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/宫/石菖蒲.md",
+            "file": "宋本伤寒/辨太阳病脉证并治（中）第六.md",
             "mode": "preview"
           }
         },
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "宋本伤寒/辨太阳病脉证并治（中）第六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "宋本伤寒/辨太阳病脉证并治（中）第六.md"
+              }
             }
           },
           {
@@ -127,6 +133,7 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "宋本伤寒/辨太阳病脉证并治（中）第六.md",
     "本草新编/宫/石菖蒲.md",
     "本草新编/宫/牛膝.md",
     "本草新编/宫/远志.md",
@@ -135,7 +142,6 @@
     "本草新编/商/款冬花.md",
     "本草新编/商/贝母.md",
     "本草新编/商/紫菀.md",
-    "本草新编/商/栝蒌实.md",
-    "本草新编/商/桔梗.md"
+    "本草新编/商/栝蒌实.md"
   ]
 }
