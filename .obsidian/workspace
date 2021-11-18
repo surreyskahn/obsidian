@@ -6,28 +6,13 @@
       {
         "id": "c002aca6c965be79",
         "type": "leaf",
-        "dimension": 50.523311132255,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/宫/甘草.md",
-            "mode": "source"
-          }
-        },
-        "group": "692323f7f8a23f47"
-      },
-      {
-        "id": "b93674bf91e6f356",
-        "type": "leaf",
-        "dimension": 49.476688867745004,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/宫/甘草.md",
+            "file": "本草新编/宫/白术.md",
             "mode": "preview"
           }
-        },
-        "group": "692323f7f8a23f47"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/宫/甘草.md",
+                "file": "本草新编/宫/白术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/宫/甘草.md"
+                "file": "本草新编/宫/白术.md"
               }
             }
           },
@@ -133,15 +118,15 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
-    "本草新编/宫/甘草.md",
-    "本草新编/宫/当归.md",
-    "本草新编/宫/苍术.md",
     "本草新编/宫/白术.md",
-    "本草新编/商/薏苡仁.md",
-    "本草新编/商/甘菊花.md",
-    "本草新编/商/菟丝子.md",
-    "本草新编/商/五味子.md",
-    "本草新编/商/麦门冬.md",
-    "本草新编/商/天门冬.md"
+    "本草新编/商/巴戟天.md",
+    "本草新编/宫/远志.md",
+    "本草新编/宫/熟地.md",
+    "本草新编/宫/石菖蒲.md",
+    "本草新编/宫/生地.md",
+    "本草新编/宫/人参.md",
+    "本草新编/宫/牛膝.md",
+    "本草新编/宫/黄芪.md",
+    "本草新编/宫/甘草.md"
   ]
 }
