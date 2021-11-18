@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/五味子.md",
+            "file": "本草新编/商/菟丝子.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/商/五味子.md",
+            "file": "本草新编/商/菟丝子.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/商/五味子.md",
+                "file": "本草新编/商/菟丝子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/商/五味子.md"
+                "file": "本草新编/商/菟丝子.md"
               }
             }
           },
@@ -133,6 +133,7 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "本草新编/商/菟丝子.md",
     "本草新编/商/五味子.md",
     "本草新编/商/麦门冬.md",
     "本草新编/宫/白术.md",
@@ -141,7 +142,6 @@
     "宋本伤寒/辨太阳病脉证并治（上）第五.md",
     "宋本伤寒/辨太阳病脉证并治（下）第七.md",
     "本草新编/宫/远志.md",
-    "本草新编/宫/熟地.md",
-    "本草新编/宫/石菖蒲.md"
+    "本草新编/宫/熟地.md"
   ]
 }
