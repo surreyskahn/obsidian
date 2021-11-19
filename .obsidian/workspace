@@ -7,8 +7,11 @@
         "id": "c002aca6c965be79",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/商/山药.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#十二经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/商/山药.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/商/山药.md"
+              }
             }
           },
           {
@@ -111,6 +118,7 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "本草新编/商/山药.md",
     "本草新编/宫/白术.md",
     "本草新编/商/巴戟天.md",
     "本草新编/宫/远志.md",
@@ -119,7 +127,6 @@
     "本草新编/宫/生地.md",
     "本草新编/宫/人参.md",
     "本草新编/宫/牛膝.md",
-    "本草新编/宫/黄芪.md",
-    "本草新编/宫/甘草.md"
+    "本草新编/宫/黄芪.md"
   ]
 }
