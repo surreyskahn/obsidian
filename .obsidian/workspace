@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/知母.md",
+            "file": "本草新编/2.商/金钗石斛.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/知母.md",
+                "file": "本草新编/2.商/金钗石斛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/知母.md"
+                "file": "本草新编/2.商/金钗石斛.md"
               }
             }
           },
@@ -117,6 +117,7 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "本草新编/2.商/金钗石斛.md",
     "本草新编/2.商/知母.md",
     "本草新编/3.角/元参.md",
     "本草新编/2.商/甘菊花.md",
@@ -125,7 +126,6 @@
     "本草新编/2.商/菟丝子.md",
     "本草新编/2.商/天门冬.md",
     "本草新编/2.商/麦门冬.md",
-    "本草新编/2.商/山药.md",
-    "本草新编/3.角/苍耳子.md"
+    "本草新编/2.商/山药.md"
   ]
 }
