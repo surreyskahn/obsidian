@@ -17,3 +17,9 @@ print('hello\bworld')    #\b--->向前覆盖一个字符
 print('hello\rworld')     #\r--->向前覆盖到行首
 print(r'hello\nworld')   #r或R--->表达式不表达，原样输出
 ```
+## 变量定义
+- 定义的变量包括三部分：标识（id）、类型（type）、值
+```
+name='不知道'
+print('标识',id(name))
+```
