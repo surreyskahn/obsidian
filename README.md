@@ -11,5 +11,7 @@ print(ord('汉字'))
 ```
 ## 转义字符
 ```
-print('hell')
+print('hello\nworld')    #\n--->换行
+print('hello\tworld')     #\t--->空出一个制表位，一个制表位是4个字符
+print('helloworld')
 ```
