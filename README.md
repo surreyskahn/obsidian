@@ -35,5 +35,6 @@ from decimal import Decimal
 print(Decimal('1.1')+Deciaml('1.2'))
 ```
 - srt--->字符串
+>单引号和双引号只能在一行显示，三引号可以换行显示，(’‘’不知道’‘’，“”“不知道”””)可以是单引号三个也可以是双引号三个
 - bool--->布尔类型，只有两个值‘True’，'False'
 >Python的布尔类型可以直接运算，True=1,False=0
