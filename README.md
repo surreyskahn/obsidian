@@ -6,7 +6,7 @@ print(1+3)    #输出结果
 ```
 ## 输出汉字
 ```
-print(chr(ob+二进制))
+print(chr(0b+二进制))   #0b--->二进制，0o--->八进制，0x--->十六进制
 print(ord('汉字'))
 ```
 ## 转义字符
@@ -26,3 +26,5 @@ print('标识',id(name))
 print('类型',type(name))
 print('值',name)
 ```
+### 数据类型
+- int
