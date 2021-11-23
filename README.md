@@ -31,4 +31,8 @@ print('值',name)
 - float--->浮点数类型（小数）
 >浮点数运行时会不准确，使用decimal模块进行运算
 ```
+from decimal import Decimal
+print(Decimal('1.1')+Deciaml('1.2'))
 ```
+- srt--->字符串
+- bool--->布尔类型，只有两个值‘True’，'False'
