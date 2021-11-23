@@ -36,3 +36,4 @@ print(Decimal('1.1')+Deciaml('1.2'))
 ```
 - srt--->字符串
 - bool--->布尔类型，只有两个值‘True’，'False'
+>Python的布尔类型可以直接运算，True=1,False=0
