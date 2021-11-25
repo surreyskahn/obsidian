@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "本草新编/2.商/补骨脂.md",
+            "mode": "source"
+          }
+        },
+        "group": "1586f8096ccb5683"
+      },
+      {
+        "id": "9b360f3135ddc0a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/补骨脂.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "1586f8096ccb5683"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "本草新编/2.商/补骨脂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "本草新编/2.商/补骨脂.md"
               }
             }
           },
@@ -115,10 +128,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c002aca6c965be79",
+  "active": "9b360f3135ddc0a5",
   "lastOpenFiles": [
-    "README.md",
     "本草新编/2.商/补骨脂.md",
+    "README.md",
     "本草新编/2.商/肉苁蓉.md",
     "本草新编/2.商/金钗石斛.md",
     "本草新编/2.商/知母.md",
