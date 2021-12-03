@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/车前子.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/车前子.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/车前子.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/车前子.md"
+                "file": "README.md"
               }
             }
           },
@@ -130,13 +130,13 @@
   },
   "active": "c002aca6c965be79",
   "lastOpenFiles": [
+    "README.md",
     "本草新编/2.商/车前子.md",
     "本草新编/2.商/升麻.md",
     "本草新编/2.商/柴胡.md",
     "本草新编/1.宫/熟地.md",
     "本草新编/2.商/羌活.md",
     "本草新编/2.商/补骨脂.md",
-    "README.md",
     "本草新编/2.商/肉苁蓉.md",
     "本草新编/2.商/金钗石斛.md",
     "本草新编/2.商/知母.md"
