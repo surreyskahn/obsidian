@@ -139,7 +139,169 @@
         "width": 162.5
       },
       "active": "d05abc4644d74b08"
+    },
+    "2": {
+      "main": {
+        "id": "d5cdd3c7bb93b18b",
+        "type": "split",
+        "children": [
+          {
+            "id": "2c597fb4d975cd5f",
+            "type": "leaf",
+            "dimension": 52.91428571428571,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "本草新编/2.商/金银花.md",
+                "mode": "source"
+              }
+            },
+            "group": "c674542e50873dad"
+          },
+          {
+            "id": "0435a85bf0c34ce9",
+            "type": "leaf",
+            "dimension": 47.08571428571429,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "本草新编/2.商/金银花.md",
+                "mode": "preview"
+              }
+            },
+            "group": "c674542e50873dad"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6cf7373904a84baf",
+        "type": "split",
+        "children": [
+          {
+            "id": "a892a4f927341673",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5af54d43e3d46b8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "18e708426b75ea86",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "金银",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 166.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "8c41c12251f33004",
+        "type": "split",
+        "children": [
+          {
+            "id": "f7011923507e6134",
+            "type": "tabs",
+            "dimension": 50.157232704402524,
+            "children": [
+              {
+                "id": "2c8d888bd2406486",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "本草新编/2.商/金银花.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3ab8f1daefc5773c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "1539c28959173613",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "本草新编/2.商/金银花.md"
+                  }
+                }
+              },
+              {
+                "id": "e09c9d56e915ab86",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a19702a61a78a166",
+                "type": "leaf",
+                "state": {
+                  "type": "toggl-report",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "e6317311f89c15ea",
+            "type": "tabs",
+            "dimension": 49.84276729559748,
+            "children": [
+              {
+                "id": "d05abc4644d74b08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2021-12-04.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 208.5
+      },
+      "active": "2c597fb4d975cd5f"
     }
   },
-  "active": "1"
+  "active": "2"
 }
