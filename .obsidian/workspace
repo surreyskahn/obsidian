@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-04.md",
+            "file": "本草新编/2.商/金银花.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "51412da21e209d43"
+      },
+      {
+        "id": "d05abc4644d74b08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/金银花.md",
+            "mode": "preview"
+          }
+        },
+        "group": "51412da21e209d43"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-04.md",
+                "file": "本草新编/2.商/金银花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-12-04.md"
+                "file": "本草新编/2.商/金银花.md"
               }
             }
           },
@@ -123,10 +136,10 @@
     "direction": "horizontal",
     "width": 162.5
   },
-  "active": "18f9497faa4d85ae",
+  "active": "d05abc4644d74b08",
   "lastOpenFiles": [
-    "2021-12-04.md",
     "本草新编/2.商/金银花.md",
+    "2021-12-04.md",
     "本草新编/2.商/续断.md",
     "本草新编/2.商/益母草.md",
     "本草新编/2.商/何首乌.md",
