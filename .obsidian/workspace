@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c002aca6c965be79",
+        "id": "18f9497faa4d85ae",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2021-12-04.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "儿枕痛",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2021-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2021-12-04.md"
+              }
             }
           },
           {
@@ -117,8 +123,9 @@
     "direction": "horizontal",
     "width": 162.5
   },
-  "active": "c002aca6c965be79",
+  "active": "18f9497faa4d85ae",
   "lastOpenFiles": [
+    "2021-12-04.md",
     "本草新编/2.商/金银花.md",
     "本草新编/2.商/续断.md",
     "本草新编/2.商/益母草.md",
@@ -127,7 +134,6 @@
     "本草新编/1.宫/牛膝.md",
     "本草新编/2.商/天麻.md",
     "本草新编/2.商/青黛.md",
-    "本草新编/2.商/蒺藜子.md",
-    "本草新编/2.商/车前子.md"
+    "本草新编/2.商/蒺藜子.md"
   ]
 }
