@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/2.商/巴戟天.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/2.商/巴戟天.md",
             "mode": "preview"
           }
         },
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/金银花.md",
+                "file": "本草新编/2.商/巴戟天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/金银花.md"
+                "file": "本草新编/2.商/巴戟天.md"
               }
             }
           },
@@ -170,6 +169,7 @@
   },
   "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "本草新编/2.商/巴戟天.md",
     "本草新编/2.商/金银花.md",
     "2021-12-04.md",
     "2021-12-05.md",
@@ -178,7 +178,6 @@
     "本草新编/2.商/何首乌.md",
     "本草新编/2.商/蒲黄.md",
     "本草新编/1.宫/牛膝.md",
-    "本草新编/2.商/天麻.md",
-    "本草新编/2.商/青黛.md"
+    "本草新编/2.商/天麻.md"
   ]
 }
