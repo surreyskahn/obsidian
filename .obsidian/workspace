@@ -9,20 +9,7 @@
         "state": {
           "type": "graph",
           "state": {}
-        },
-        "group": "66a1c42d1a8a8d83"
-      },
-      {
-        "id": "11489f7c6a1c76af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/2.商/山药.md",
-            "mode": "source"
-          }
-        },
-        "group": "66a1c42d1a8a8d83"
+        }
       }
     ],
     "direction": "vertical"
