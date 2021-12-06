@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/火.md",
+            "file": "2021-12-05.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/火.md",
+            "file": "2021-12-05.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/火.md",
+                "file": "2021-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/火.md"
+                "file": "2021-12-05.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "2021-12-05.md",
     "本草新编/5.羽/火.md",
     "本草新编/5.羽/水.md",
     "本草新编/5.羽/月水.md",
@@ -146,7 +147,6 @@
     "本草新编/5.羽/胎发.md",
     "本草新编/5.羽/人乳.md",
     "本草新编/5.羽/紫河车.md",
-    "本草新编/5.羽/海螵蛸.md",
-    "本草新编/5.羽/龙骨.md"
+    "本草新编/5.羽/海螵蛸.md"
   ]
 }
