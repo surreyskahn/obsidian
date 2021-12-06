@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-05.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-12-05.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         },
         "group": "66a1c42d1a8a8d83"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-12-05.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-12-05.md"
+                "file": "README.md"
               }
             }
           },
@@ -138,6 +138,8 @@
   },
   "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "README.md",
+    "2021-12-04.md",
     "2021-12-05.md",
     "本草新编/5.羽/火.md",
     "本草新编/5.羽/水.md",
@@ -145,8 +147,6 @@
     "本草新编/5.羽/浣裤汁.md",
     "本草新编/5.羽/童便.md",
     "本草新编/5.羽/胎发.md",
-    "本草新编/5.羽/人乳.md",
-    "本草新编/5.羽/紫河车.md",
-    "本草新编/5.羽/海螵蛸.md"
+    "本草新编/5.羽/人乳.md"
   ]
 }
