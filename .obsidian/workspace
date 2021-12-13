@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "0435a85bf0c34ce9",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/1.宫/白术.md",
+            "file": "本草新编/2.商/紫菀.md",
             "mode": "source"
           }
         },
-        "group": "c674542e50873dad"
+        "group": "88e9dc927e7aef9c"
       },
       {
-        "id": "0435a85bf0c34ce9",
+        "id": "e4f2613f90429bd4",
         "type": "leaf",
-        "dimension": 47.085714285714296,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/1.宫/白术.md",
+            "file": "本草新编/2.商/紫菀.md",
             "mode": "preview"
           }
         },
-        "group": "c674542e50873dad"
+        "group": "88e9dc927e7aef9c"
       }
     ],
     "direction": "vertical"
@@ -67,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/1.宫/白术.md",
+                "file": "本草新编/2.商/紫菀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/1.宫/白术.md"
+                "file": "本草新编/2.商/紫菀.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "0435a85bf0c34ce9",
   "lastOpenFiles": [
+    "本草新编/2.商/紫菀.md",
+    "本草新编/1.宫/人参.md",
     "本草新编/1.宫/白术.md",
     "本草新编/1.宫/苍术.md",
     "本草新编/1.宫/当归.md",
     "本草新编/1.宫/甘草.md",
     "本草新编/1.宫/黄芪.md",
     "本草新编/1.宫/牛膝.md",
-    "本草新编/1.宫/人参.md",
     "本草新编/1.宫/生地.md",
-    "本草新编/1.宫/石菖蒲.md",
-    "本草新编/1.宫/熟地.md"
+    "本草新编/1.宫/石菖蒲.md"
   ]
 }
