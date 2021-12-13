@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0435a85bf0c34ce9",
+        "id": "94d948d52939d4e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/紫菀.md",
-            "mode": "source"
-          }
-        },
-        "group": "88e9dc927e7aef9c"
-      },
-      {
-        "id": "e4f2613f90429bd4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/2.商/紫菀.md",
+            "file": "本草新编/2.商/甘菊花.md",
             "mode": "preview"
           }
-        },
-        "group": "88e9dc927e7aef9c"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/紫菀.md",
+                "file": "本草新编/2.商/甘菊花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/紫菀.md"
+                "file": "本草新编/2.商/甘菊花.md"
               }
             }
           },
@@ -137,8 +123,10 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "0435a85bf0c34ce9",
+  "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "本草新编/2.商/甘菊花.md",
+    "本草新编/2.商/贝母.md",
     "本草新编/2.商/紫菀.md",
     "本草新编/1.宫/人参.md",
     "本草新编/1.宫/白术.md",
@@ -146,8 +134,6 @@
     "本草新编/1.宫/当归.md",
     "本草新编/1.宫/甘草.md",
     "本草新编/1.宫/黄芪.md",
-    "本草新编/1.宫/牛膝.md",
-    "本草新编/1.宫/生地.md",
-    "本草新编/1.宫/石菖蒲.md"
+    "本草新编/1.宫/牛膝.md"
   ]
 }

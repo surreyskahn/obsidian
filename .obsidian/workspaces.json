@@ -277,24 +277,6 @@
               }
             ],
             "currentTab": 4
-          },
-          {
-            "id": "e6317311f89c15ea",
-            "type": "tabs",
-            "dimension": 49.84276729559748,
-            "children": [
-              {
-                "id": "d05abc4644d74b08",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2021-12-04.md",
-                    "mode": "source"
-                  }
-                }
-              }
-            ]
           }
         ],
         "direction": "horizontal",
@@ -424,5 +406,5 @@
       "active": "94d948d52939d4e8"
     }
   },
-  "active": "2"
+  "active": "酷炫"
 }
