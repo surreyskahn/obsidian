@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "94d948d52939d4e8",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/2.商/款冬花.md",
-            "mode": "source"
-          }
-        },
-        "group": "c674542e50873dad"
-      },
-      {
-        "id": "0435a85bf0c34ce9",
-        "type": "leaf",
-        "dimension": 47.085714285714296,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/2.商/款冬花.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c674542e50873dad"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -84,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/款冬花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "本草新编/2.商/款冬花.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +117,7 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "94d948d52939d4e8",
   "lastOpenFiles": [
     "本草新编/2.商/款冬花.md",
     "本草新编/2.商/贝母.md",
