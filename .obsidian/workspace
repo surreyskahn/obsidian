@@ -4,12 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "94d948d52939d4e8",
+        "id": "2c597fb4d975cd5f",
         "type": "leaf",
+        "dimension": 52.914285714285704,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/栝蒌实.md",
+            "mode": "source"
+          }
+        },
+        "group": "c674542e50873dad"
+      },
+      {
+        "id": "0435a85bf0c34ce9",
+        "type": "leaf",
+        "dimension": 47.085714285714296,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/栝蒌实.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -36,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -65,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/2.商/栝蒌实.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/2.商/栝蒌实.md"
+              }
             }
           },
           {
@@ -117,16 +139,16 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "94d948d52939d4e8",
+  "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
-    "本草新编/2.商/甘菊花.md",
     "本草新编/2.商/栝蒌实.md",
+    "本草新编/2.商/金银花.md",
+    "本草新编/2.商/甘菊花.md",
     "本草新编/2.商/桔梗.md",
     "本草新编/2.商/黄连.md",
     "本草新编/2.商/柴胡.md",
     "本草新编/2.商/黄芩.md",
     "本草新编/2.商/芍药.md",
-    "本草新编/2.商/金银花.md",
     "本草新编/4.徵/地骨皮.md",
     "本草新编/2.商/山药.md"
   ]
