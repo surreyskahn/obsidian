@@ -32,14 +32,14 @@
       "query": "path:本草新编/3.角",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 35552
       }
     },
     {
       "query": "path:本草新编/5.羽",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 8061076
       }
     }
   ],
@@ -54,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6346286658527585,
-  "close": true
+  "close": false
 }
