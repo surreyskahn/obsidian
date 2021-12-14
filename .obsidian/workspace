@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "18f9497faa4d85ae",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
             "file": "本草新编/3.角/广木香.md",
             "mode": "source"
           }
-        },
-        "group": "c674542e50873dad"
-      },
-      {
-        "id": "0435a85bf0c34ce9",
-        "type": "leaf",
-        "dimension": 47.085714285714296,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/3.角/广木香.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c674542e50873dad"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 136.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -133,13 +117,13 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 162.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "18f9497faa4d85ae",
   "lastOpenFiles": [
     "本草新编/3.角/广木香.md",
     "本草新编/2.商/金银花.md",
