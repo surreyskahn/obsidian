@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "94d948d52939d4e8",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/肉豆蔻.md",
+            "file": "本草新编/3.角/益智.md",
             "mode": "source"
           }
-        },
-        "group": "c674542e50873dad"
-      },
-      {
-        "id": "0435a85bf0c34ce9",
-        "type": "leaf",
-        "dimension": 47.085714285714296,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/3.角/肉豆蔻.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c674542e50873dad"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "益智",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -84,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/肉豆蔻.md",
+                "file": "本草新编/3.角/益智.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/肉豆蔻.md"
+                "file": "本草新编/3.角/益智.md"
               }
             }
           },
@@ -139,17 +124,17 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "本草新编/3.角/益智.md",
+    "本草新编/1.宫/熟地.md",
     "本草新编/3.角/肉豆蔻.md",
     "本草新编/3.角/砂仁.md",
-    "本草新编/3.角/益智.md",
     "本草新编/3.角/香附.md",
     "本草新编/2.商/金银花.md",
     "本草新编/3.角/广木香.md",
     "本草新编/2.商/款冬花.md",
     "本草新编/2.商/贝母.md",
-    "本草新编/2.商/甘菊花.md",
-    "茯神.md"
+    "本草新编/2.商/甘菊花.md"
   ]
 }
