@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/藿香.md",
+            "file": "本草新编/3.角/高良姜.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/藿香.md",
+            "file": "本草新编/3.角/高良姜.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/藿香.md",
+                "file": "本草新编/3.角/高良姜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/藿香.md"
+                "file": "本草新编/3.角/高良姜.md"
               }
             }
           },
@@ -141,6 +141,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/高良姜.md",
     "本草新编/3.角/藿香.md",
     "本草新编/3.角/白豆蔻.md",
     "本草新编/2.商/金银花.md",
@@ -149,7 +150,6 @@
     "本草新编/3.角/肉豆蔻.md",
     "本草新编/3.角/砂仁.md",
     "本草新编/3.角/香附.md",
-    "本草新编/3.角/广木香.md",
-    "本草新编/2.商/款冬花.md"
+    "本草新编/3.角/广木香.md"
   ]
 }
