@@ -4,12 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "94d948d52939d4e8",
+        "id": "18f9497faa4d85ae",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/金银花.md",
+            "mode": "source"
+          }
+        },
+        "group": "51412da21e209d43"
+      },
+      {
+        "id": "d05abc4644d74b08",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/2.商/金银花.md",
+            "mode": "preview"
+          }
+        },
+        "group": "51412da21e209d43"
       }
     ],
     "direction": "vertical"
@@ -49,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 136.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/2.商/金银花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/2.商/金银花.md"
+              }
             }
           },
           {
@@ -111,14 +130,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 162.5
   },
-  "active": "94d948d52939d4e8",
+  "active": "d05abc4644d74b08",
   "lastOpenFiles": [
+    "本草新编/2.商/金银花.md",
     "本草新编/3.角/麻黄.md",
     "本草新编/3.角/细辛.md",
     "本草新编/3.角/白芷.md",
@@ -127,7 +147,6 @@
     "本草新编/3.角/防风.md",
     "本草新编/3.角/紫苏叶.md",
     "本草新编/3.角/高良姜.md",
-    "本草新编/3.角/藿香.md",
-    "本草新编/3.角/白豆蔻.md"
+    "本草新编/3.角/藿香.md"
   ]
 }
