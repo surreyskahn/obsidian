@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/荆芥.md",
+            "file": "本草新编/3.角/防己.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/荆芥.md",
+            "file": "本草新编/3.角/防己.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/荆芥.md",
+                "file": "本草新编/3.角/防己.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/荆芥.md"
+                "file": "本草新编/3.角/防己.md"
               }
             }
           },
@@ -141,8 +141,8 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
-    "本草新编/3.角/荆芥.md",
     "本草新编/3.角/防己.md",
+    "本草新编/3.角/荆芥.md",
     "本草新编/3.角/防风.md",
     "本草新编/3.角/紫苏叶.md",
     "本草新编/3.角/高良姜.md",
