@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "18f9497faa4d85ae",
+        "id": "2c597fb4d975cd5f",
         "type": "leaf",
+        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
@@ -13,11 +14,12 @@
             "mode": "source"
           }
         },
-        "group": "51412da21e209d43"
+        "group": "c674542e50873dad"
       },
       {
-        "id": "d05abc4644d74b08",
+        "id": "0435a85bf0c34ce9",
         "type": "leaf",
+        "dimension": 47.085714285714296,
         "state": {
           "type": "markdown",
           "state": {
@@ -25,7 +27,7 @@
             "mode": "preview"
           }
         },
-        "group": "51412da21e209d43"
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 136.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -130,13 +133,13 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 162.5
+    "width": 208.5
   },
-  "active": "d05abc4644d74b08",
+  "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
     "本草新编/2.商/金银花.md",
     "本草新编/3.角/麻黄.md",
