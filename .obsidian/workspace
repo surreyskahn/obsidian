@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/2.商/甘菊花.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/2.商/甘菊花.md",
             "mode": "preview"
           }
         },
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/金银花.md",
+                "file": "本草新编/2.商/甘菊花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/金银花.md"
+                "file": "本草新编/2.商/甘菊花.md"
               }
             }
           },
@@ -141,15 +140,15 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
-    "本草新编/2.商/金银花.md",
-    "本草新编/3.角/麻黄.md",
-    "本草新编/3.角/细辛.md",
-    "本草新编/3.角/白芷.md",
-    "本草新编/3.角/荆芥.md",
-    "本草新编/3.角/防己.md",
-    "本草新编/3.角/防风.md",
-    "本草新编/3.角/紫苏叶.md",
-    "本草新编/3.角/高良姜.md",
-    "本草新编/3.角/藿香.md"
+    "本草新编/2.商/甘菊花.md",
+    "本草新编/2.商/补骨脂.md",
+    "本草新编/2.商/巴戟天.md",
+    "本草新编/1.宫/远志.md",
+    "本草新编/1.宫/熟地.md",
+    "本草新编/1.宫/人参.md",
+    "本草新编/1.宫/黄芪.md",
+    "本草新编/1.宫/甘草.md",
+    "本草新编/1.宫/当归.md",
+    "本草新编/1.宫/苍术.md"
   ]
 }
