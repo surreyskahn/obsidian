@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/甘菊花.md",
+            "file": "本草新编/3.角/麻黄.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/甘菊花.md",
+            "file": "本草新编/3.角/麻黄.md",
             "mode": "preview"
           }
         },
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/甘菊花.md",
+                "file": "本草新编/3.角/麻黄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/甘菊花.md"
+                "file": "本草新编/3.角/麻黄.md"
               }
             }
           },
@@ -140,6 +141,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/麻黄.md",
     "本草新编/2.商/甘菊花.md",
     "本草新编/2.商/补骨脂.md",
     "本草新编/2.商/巴戟天.md",
@@ -148,7 +150,6 @@
     "本草新编/1.宫/人参.md",
     "本草新编/1.宫/黄芪.md",
     "本草新编/1.宫/甘草.md",
-    "本草新编/1.宫/当归.md",
-    "本草新编/1.宫/苍术.md"
+    "本草新编/1.宫/当归.md"
   ]
 }
