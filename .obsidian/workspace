@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#存疑",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,14 +142,14 @@
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
     "本草新编/2.商/柴胡.md",
+    "本草新编/2.商/金银花.md",
+    "本草新编/1.宫/白术.md",
+    "桑叶.md",
+    "本草新编/3.角/元参.md",
     "本草新编/2.商/蒺藜子.md",
     "本草新编/3.角/薄荷.md",
     "本草新编/3.角/秦艽.md",
     "本草新编/3.角/威灵仙.md",
-    "本草新编/3.角/葛根.md",
-    "本草新编/3.角/麻黄.md",
-    "本草新编/3.角/防己.md",
-    "本草新编/3.角/荆芥.md",
-    "本草新编/2.商/五味子.md"
+    "本草新编/3.角/葛根.md"
   ]
 }
