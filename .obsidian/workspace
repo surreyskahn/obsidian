@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/蒺藜子.md",
+            "file": "本草新编/2.商/柴胡.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/蒺藜子.md",
+            "file": "本草新编/2.商/柴胡.md",
             "mode": "preview"
           }
         },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/蒺藜子.md",
+                "file": "本草新编/2.商/柴胡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/蒺藜子.md"
+                "file": "本草新编/2.商/柴胡.md"
               }
             }
           },
@@ -142,6 +142,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/2.商/柴胡.md",
     "本草新编/2.商/蒺藜子.md",
     "本草新编/3.角/薄荷.md",
     "本草新编/3.角/秦艽.md",
@@ -150,7 +151,6 @@
     "本草新编/3.角/麻黄.md",
     "本草新编/3.角/防己.md",
     "本草新编/3.角/荆芥.md",
-    "本草新编/2.商/五味子.md",
-    "本草新编/3.角/香附.md"
+    "本草新编/2.商/五味子.md"
   ]
 }
