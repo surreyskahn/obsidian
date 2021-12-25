@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 235.5
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
