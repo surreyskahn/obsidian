@@ -4,12 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "94d948d52939d4e8",
+        "id": "2c597fb4d975cd5f",
         "type": "leaf",
+        "dimension": 52.914285714285704,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/3.角/香薷.md",
+            "mode": "source"
+          }
+        },
+        "group": "c674542e50873dad"
+      },
+      {
+        "id": "0435a85bf0c34ce9",
+        "type": "leaf",
+        "dimension": 47.085714285714296,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/3.角/香薷.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -36,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/3.角/香薷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/3.角/香薷.md"
+              }
             }
           },
           {
@@ -117,17 +138,17 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "94d948d52939d4e8",
+  "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/香薷.md",
+    "本草新编/3.角/薄荷.md",
+    "本草新编/3.角/元参.md",
+    "本草新编/2.商/金银花.md",
+    "本草新编/3.角/葛根.md",
     "本草新编/1.宫/人参.md",
     "本草新编/2.商/柴胡.md",
-    "本草新编/2.商/金银花.md",
     "本草新编/1.宫/白术.md",
     "桑叶.md",
-    "本草新编/3.角/元参.md",
-    "本草新编/2.商/蒺藜子.md",
-    "本草新编/3.角/薄荷.md",
-    "本草新编/3.角/秦艽.md",
-    "本草新编/3.角/威灵仙.md"
+    "本草新编/2.商/蒺藜子.md"
   ]
 }
