@@ -38,5 +38,13 @@
       ],
       "key": "4"
     }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
   ]
 }
