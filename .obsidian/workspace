@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/地栗粉.md",
+            "file": "本草新编/3.角/丹参.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/地栗粉.md",
+            "file": "本草新编/3.角/丹参.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/地栗粉.md",
+                "file": "本草新编/3.角/丹参.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/地栗粉.md"
+                "file": "本草新编/3.角/丹参.md"
               }
             }
           },
@@ -140,6 +140,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/丹参.md",
     "本草新编/3.角/地栗粉.md",
     "本草新编/3.角/沙参.md",
     "本草新编/3.角/元参.md",
@@ -148,7 +149,6 @@
     "本草新编/3.角/蛇床子.md",
     "README.md",
     "本草新编/3.角/萎蕤.md",
-    "本草新编/3.角/薄荷.md",
-    "本草新编/3.角/香薷.md"
+    "本草新编/3.角/薄荷.md"
   ]
 }
