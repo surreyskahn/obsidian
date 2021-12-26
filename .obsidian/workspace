@@ -6,26 +6,28 @@
       {
         "id": "2c597fb4d975cd5f",
         "type": "leaf",
-        "dimension": 52.914285714285704,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
             "file": "本草新编/3.角/蛇床子.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "719a0d5ed379a76e"
       },
       {
-        "id": "0435a85bf0c34ce9",
+        "id": "4fb075c1e354890d",
         "type": "leaf",
-        "dimension": 47.085714285714296,
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/萎蕤.md",
+            "file": "本草新编/3.角/蛇床子.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "719a0d5ed379a76e"
       }
     ],
     "direction": "vertical"
