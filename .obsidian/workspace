@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/3.角/茵陈.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/金银花.md",
+            "file": "本草新编/3.角/茵陈.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/金银花.md",
+                "file": "本草新编/3.角/茵陈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/金银花.md"
+                "file": "本草新编/3.角/茵陈.md"
               }
             }
           },
@@ -141,15 +141,15 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
-    "本草新编/2.商/金银花.md",
+    "本草新编/3.角/茵陈.md",
     "本草新编/3.角/白薇.md",
+    "本草新编/2.商/金银花.md",
     "本草新编/3.角/丹参.md",
     "本草新编/3.角/地栗粉.md",
     "本草新编/3.角/沙参.md",
     "本草新编/3.角/元参.md",
     "本草新编/3.角/泽泻.md",
     "本草新编/3.角/龙胆草.md",
-    "本草新编/3.角/蛇床子.md",
-    "README.md"
+    "本草新编/3.角/蛇床子.md"
   ]
 }
