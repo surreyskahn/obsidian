@@ -6,28 +6,28 @@
       {
         "id": "2c597fb4d975cd5f",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/白薇.md",
+            "file": "本草新编/2.商/金银花.md",
             "mode": "source"
           }
         },
-        "group": "719a0d5ed379a76e"
+        "group": "c674542e50873dad"
       },
       {
-        "id": "4fb075c1e354890d",
+        "id": "0435a85bf0c34ce9",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 47.085714285714296,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/白薇.md",
+            "file": "本草新编/2.商/金银花.md",
             "mode": "preview"
           }
         },
-        "group": "719a0d5ed379a76e"
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/白薇.md",
+                "file": "本草新编/2.商/金银花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/白薇.md"
+                "file": "本草新编/2.商/金银花.md"
               }
             }
           },
@@ -136,10 +137,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 208.5
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/2.商/金银花.md",
     "本草新编/3.角/白薇.md",
     "本草新编/3.角/丹参.md",
     "本草新编/3.角/地栗粉.md",
@@ -148,7 +150,6 @@
     "本草新编/3.角/泽泻.md",
     "本草新编/3.角/龙胆草.md",
     "本草新编/3.角/蛇床子.md",
-    "README.md",
-    "本草新编/3.角/萎蕤.md"
+    "README.md"
   ]
 }
