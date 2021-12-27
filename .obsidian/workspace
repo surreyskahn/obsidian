@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "川乌",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5
+    "width": 166.5,
+    "collapsed": true
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -141,14 +142,14 @@
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
     "本草新编/3.角/三七根.md",
+    "本草新编/2.商/金银花.md",
+    "本草新编/1.宫/人参.md",
     "本草新编/3.角/泽漆.md",
     "本草新编/3.角/骨碎补.md",
     "本草新编/3.角/蓬莪荗.md",
     "本草新编/3.角/半夏.md",
     "本草新编/3.角/天南星.md",
     "本草新编/3.角/附子.md",
-    "本草新编/1.宫/苍术.md",
-    "本草新编/3.角/仙茅.md",
-    "本草新编/3.角/青蒿.md"
+    "本草新编/1.宫/苍术.md"
   ]
 }
