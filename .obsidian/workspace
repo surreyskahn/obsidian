@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "茯苓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,6 +120,7 @@
   },
   "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "本草新编/4.徵/茯苓.md",
     "本草新编/1.宫/人参.md",
     "本草新编/3.角/白头翁.md",
     "本草新编/3.角/蜀漆.md",
@@ -127,7 +129,6 @@
     "本草新编/3.角/万年青.md",
     "本草新编/3.角/三七根.md",
     "本草新编/2.商/金银花.md",
-    "本草新编/3.角/泽漆.md",
-    "本草新编/3.角/骨碎补.md"
+    "本草新编/3.角/泽漆.md"
   ]
 }
