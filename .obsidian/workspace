@@ -7,8 +7,11 @@
         "id": "94d948d52939d4e8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/4.徵/枸杞子.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/4.徵/枸杞子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/4.徵/枸杞子.md"
+              }
             }
           },
           {
@@ -120,6 +126,7 @@
   },
   "active": "94d948d52939d4e8",
   "lastOpenFiles": [
+    "本草新编/4.徵/枸杞子.md",
     "本草新编/4.徵/茯苓.md",
     "本草新编/4.徵/杜仲.md",
     "本草新编/4.徵/冬葵子.md",
@@ -128,7 +135,6 @@
     "本草新编/4.徵/大腹皮.md",
     "本草新编/4.徵/葱.md",
     "本草新编/4.徵/甘遂.md",
-    "本草新编/1.宫/人参.md",
-    "本草新编/3.角/白头翁.md"
+    "本草新编/1.宫/人参.md"
   ]
 }
