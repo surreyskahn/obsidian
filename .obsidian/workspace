@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/枲耳实.md",
+            "file": "本草新编/3.角/茜草.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/枲耳实.md",
+            "file": "本草新编/3.角/茜草.md",
             "mode": "preview"
           }
         },
@@ -74,26 +74,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f7011923507e6134",
+        "id": "84192d61cf437727",
         "type": "tabs",
         "children": [
-          {
-            "id": "2c8d888bd2406486",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "本草新编/3.角/枲耳实.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "3ab8f1daefc5773c",
             "type": "leaf",
@@ -106,12 +89,35 @@
             }
           },
           {
+            "id": "2c8d888bd2406486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "本草新编/3.角/茜草.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7011923507e6134",
+        "type": "tabs",
+        "children": [
+          {
             "id": "1539c28959173613",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/枲耳实.md"
+                "file": "本草新编/3.角/茜草.md"
               }
             }
           },
@@ -132,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -140,6 +146,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/茜草.md",
     "本草新编/3.角/枲耳实.md",
     "本草新编/3.角/苍耳子.md",
     "本草新编/3.角/地榆.md",
@@ -148,7 +155,6 @@
     "本草新编/3.角/延胡索.md",
     "延胡素.md",
     "本草新编/3.角/刘寄奴.md",
-    "本草新编/3.角/大蓟、小蓟.md",
-    "本草新编/3.角/小蓟.md"
+    "本草新编/3.角/大蓟、小蓟.md"
   ]
 }
