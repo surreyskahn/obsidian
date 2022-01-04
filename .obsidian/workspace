@@ -4,30 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "94d948d52939d4e8",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/3.角/大黄.md",
-            "mode": "source"
-          }
-        },
-        "group": "c674542e50873dad"
-      },
-      {
-        "id": "0435a85bf0c34ce9",
-        "type": "leaf",
-        "dimension": 47.085714285714296,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/3.角/大黄.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c674542e50873dad"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "蓟",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,9 +56,25 @@
     "type": "split",
     "children": [
       {
-        "id": "84192d61cf437727",
+        "id": "f7011923507e6134",
         "type": "tabs",
         "children": [
+          {
+            "id": "2c8d888bd2406486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "3ab8f1daefc5773c",
             "type": "leaf",
@@ -89,36 +87,11 @@
             }
           },
           {
-            "id": "2c8d888bd2406486",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "本草新编/3.角/大黄.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f7011923507e6134",
-        "type": "tabs",
-        "children": [
-          {
             "id": "1539c28959173613",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "本草新编/3.角/大黄.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,13 +111,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "94d948d52939d4e8",
   "lastOpenFiles": [
     "本草新编/3.角/大黄.md",
     "本草新编/3.角/旋覆花.md",
