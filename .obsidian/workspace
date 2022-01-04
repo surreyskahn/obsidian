@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/地榆.md",
+            "file": "本草新编/3.角/枲耳实.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/地榆.md",
+            "file": "本草新编/3.角/枲耳实.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/地榆.md",
+                "file": "本草新编/3.角/枲耳实.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/地榆.md"
+                "file": "本草新编/3.角/枲耳实.md"
               }
             }
           },
@@ -140,6 +140,8 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/枲耳实.md",
+    "本草新编/3.角/苍耳子.md",
     "本草新编/3.角/地榆.md",
     "本草新编/3.角/艾叶.md",
     "本草新编/3.角/郁金.md",
@@ -147,8 +149,6 @@
     "延胡素.md",
     "本草新编/3.角/刘寄奴.md",
     "本草新编/3.角/大蓟、小蓟.md",
-    "本草新编/3.角/小蓟.md",
-    "本草新编/3.角/牡丹皮.md",
-    "本草新编/3.角/连翘.md"
+    "本草新编/3.角/小蓟.md"
   ]
 }
