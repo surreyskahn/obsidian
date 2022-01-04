@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/牡丹皮.md",
+            "file": "本草新编/3.角/大蓟、小蓟.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/牡丹皮.md",
+            "file": "本草新编/3.角/大蓟、小蓟.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "蓟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/牡丹皮.md",
+                "file": "本草新编/3.角/大蓟、小蓟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/牡丹皮.md"
+                "file": "本草新编/3.角/大蓟、小蓟.md"
               }
             }
           },
@@ -141,6 +140,8 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/3.角/大蓟、小蓟.md",
+    "本草新编/3.角/小蓟.md",
     "本草新编/3.角/牡丹皮.md",
     "本草新编/3.角/连翘.md",
     "本草新编/3.角/射干.md",
@@ -148,8 +149,6 @@
     "本草新编/3.角/牵牛.md",
     "本草新编/2.商/金银花.md",
     "本草新编/4.徵/枸杞子.md",
-    "本草新编/4.徵/茯苓.md",
-    "本草新编/4.徵/杜仲.md",
-    "本草新编/4.徵/冬葵子.md"
+    "本草新编/4.徵/茯苓.md"
   ]
 }
