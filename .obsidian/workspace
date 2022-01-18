@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "94d948d52939d4e8",
+        "id": "2c597fb4d975cd5f",
         "type": "leaf",
+        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/柴胡.md",
+            "file": "本草新编/4.徵/豨莶草.md",
+            "mode": "source"
+          }
+        },
+        "group": "c674542e50873dad"
+      },
+      {
+        "id": "0435a85bf0c34ce9",
+        "type": "leaf",
+        "dimension": 47.085714285714296,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/4.徵/豨莶草.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "豨莶草",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,17 +63,31 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
     "type": "split",
     "children": [
+      {
+        "id": "2f6d3106f4639508",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19702a61a78a166",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "f7011923507e6134",
         "type": "tabs",
@@ -69,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/柴胡.md",
+                "file": "本草新编/4.徵/豨莶草.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/柴胡.md"
+                "file": "本草新编/4.徵/豨莶草.md"
               }
             }
           },
@@ -108,33 +137,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "a19702a61a78a166",
-            "type": "leaf",
-            "state": {
-              "type": "toggl-report",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "94d948d52939d4e8",
+  "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/豨莶草.md",
+    "本草新编/3.角/荆芥.md",
+    "豨莶草.md",
+    "本草新编/3.角/防己.md",
+    "本草新编/2.商/金银花.md",
+    "本草新编/4.徵/海藻.md",
     "本草新编/2.商/柴胡.md",
     "本草新编/1.宫/人参.md",
     "本草新编/2.商/川芎.md",
-    "本草新编/2.商/补骨脂.md",
-    "本草新编/2.商/车前子.md",
-    "本草新编/2.商/甘菊花.md",
-    "本草新编/2.商/何首乌.md",
-    "本草新编/2.商/蒺藜子.md",
-    "本草新编/2.商/黄芩.md",
-    "本草新编/2.商/黄连.md"
+    "本草新编/2.商/补骨脂.md"
   ]
 }
