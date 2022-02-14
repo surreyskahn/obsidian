@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 52.914285714285704,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/4.徵/海藻.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "c674542e50873dad"
       },
@@ -54,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#脾经",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/海藻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "本草新编/4.徵/海藻.md"
-              }
+              "state": {}
             }
           },
           {
