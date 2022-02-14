@@ -6,25 +6,10 @@
       {
         "id": "2c597fb4d975cd5f",
         "type": "leaf",
-        "dimension": 52.914285714285704,
         "state": {
           "type": "graph",
           "state": {}
-        },
-        "group": "c674542e50873dad"
-      },
-      {
-        "id": "0435a85bf0c34ce9",
-        "type": "leaf",
-        "dimension": 47.085714285714296,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "本草新编/4.徵/海藻.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c674542e50873dad"
+        }
       }
     ],
     "direction": "vertical"
