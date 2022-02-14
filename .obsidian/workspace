@@ -7,8 +7,11 @@
         "id": "2c597fb4d975cd5f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/4.徵/海藻.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -80,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "本草新编/4.徵/海藻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "本草新编/4.徵/海藻.md"
+              }
             }
           },
           {
