@@ -6,13 +6,28 @@
       {
         "id": "2c597fb4d975cd5f",
         "type": "leaf",
+        "dimension": 52.914285714285704,
         "state": {
           "type": "markdown",
           "state": {
             "file": "本草新编/4.徵/海藻.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c674542e50873dad"
+      },
+      {
+        "id": "0435a85bf0c34ce9",
+        "type": "leaf",
+        "dimension": 47.085714285714296,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "本草新编/4.徵/海藻.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c674542e50873dad"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#脾经",
+                "query": "金银",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,6 +147,7 @@
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
     "本草新编/4.徵/海藻.md",
+    "本草新编/2.商/金银花.md",
     "本草新编/4.徵/豨莶草.md",
     "本草新编/4.徵/萆薢.md",
     "本草新编/4.徵/泽兰.md",
@@ -140,7 +155,6 @@
     "本草新编/2.商/山药.md",
     "本草新编/3.角/荆芥.md",
     "豨莶草.md",
-    "本草新编/3.角/防己.md",
-    "本草新编/2.商/金银花.md"
+    "本草新编/3.角/防己.md"
   ]
 }
