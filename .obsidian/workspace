@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/荆芥.md",
+            "file": "本草新编/2.商/羌活.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/3.角/荆芥.md",
+            "file": "本草新编/2.商/羌活.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/3.角/荆芥.md",
+                "file": "本草新编/2.商/羌活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/3.角/荆芥.md"
+                "file": "本草新编/2.商/羌活.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/2.商/羌活.md",
     "本草新编/3.角/荆芥.md",
     "本草新编/4.徵/吴茱萸.md",
     "本草新编/2.商/天麻.md",
@@ -154,7 +155,6 @@
     "本草新编/3.角/防风.md",
     "本草新编/3.角/细辛.md",
     "本草新编/2.商/川芎.md",
-    "本草新编/3.角/白芷.md",
-    "本草新编/2.商/羌活.md"
+    "本草新编/3.角/白芷.md"
   ]
 }
