@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/茯苓.md",
+            "file": "本草新编/2.商/甘菊花.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/茯苓.md",
+            "file": "本草新编/2.商/甘菊花.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "金银",
+                "query": "茯神",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/茯苓.md",
+                "file": "本草新编/2.商/甘菊花.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/茯苓.md"
+                "file": "本草新编/2.商/甘菊花.md"
               }
             }
           },
@@ -146,6 +147,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/2.商/甘菊花.md",
     "本草新编/4.徵/茯苓.md",
     "本草新编/4.徵/淡竹叶.md",
     "本草新编/4.徵/竹茹.md",
@@ -154,7 +156,6 @@
     "本草新编/4.徵/黄柏.md",
     "本草新编/4.徵/柏子仁.md",
     "本草新编/4.徵/桂枝.md",
-    "本草新编/4.徵/肉桂.md",
-    "本草新编/4.徵/没食子.md"
+    "本草新编/4.徵/肉桂.md"
   ]
 }
