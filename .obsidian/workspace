@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/桂枝.md",
+            "file": "本草新编/4.徵/柏子仁.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/桂枝.md",
+            "file": "本草新编/4.徵/柏子仁.md",
             "mode": "preview"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/桂枝.md",
+                "file": "本草新编/4.徵/柏子仁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/桂枝.md"
+                "file": "本草新编/4.徵/柏子仁.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/柏子仁.md",
     "本草新编/4.徵/桂枝.md",
     "本草新编/4.徵/肉桂.md",
     "本草新编/4.徵/没食子.md",
@@ -154,7 +155,6 @@
     "本草新编/4.徵/羊踯躅.md",
     "本草新编/4.徵/山豆根.md",
     "本草新编/4.徵/贯众.md",
-    "本草新编/4.徵/山慈菇根.md",
-    "本草新编/4.徵/灯心草.md"
+    "本草新编/4.徵/山慈菇根.md"
   ]
 }
