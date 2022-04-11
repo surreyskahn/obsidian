@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/甘菊花.md",
+            "file": "本草新编/4.徵/槐实.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/2.商/甘菊花.md",
-            "mode": "preview"
+            "file": "本草新编/4.徵/槐实.md",
+            "mode": "source"
           }
         },
         "group": "c674542e50873dad"
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/2.商/甘菊花.md",
+                "file": "本草新编/4.徵/槐实.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/2.商/甘菊花.md"
+                "file": "本草新编/4.徵/槐实.md"
               }
             }
           },
@@ -147,15 +146,15 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
-    "本草新编/2.商/甘菊花.md",
+    "本草新编/4.徵/槐实.md",
     "本草新编/4.徵/茯苓.md",
+    "茯神.md",
+    "本草新编/1.宫/熟地.md",
+    "本草新编/2.商/甘菊花.md",
     "本草新编/4.徵/淡竹叶.md",
     "本草新编/4.徵/竹茹.md",
     "本草新编/4.徵/竹沥.md",
     "本草新编/4.徵/楮实子.md",
-    "本草新编/4.徵/黄柏.md",
-    "本草新编/4.徵/柏子仁.md",
-    "本草新编/4.徵/桂枝.md",
-    "本草新编/4.徵/肉桂.md"
+    "本草新编/4.徵/黄柏.md"
   ]
 }
