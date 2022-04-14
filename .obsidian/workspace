@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "核桃",
+                "query": "山萸肉",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,14 +148,14 @@
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
     "本草新编/4.徵/使君子.md",
+    "本草新编/4.徵/山茱萸.md",
+    "本草新编/1.宫/人参.md",
     "本草新编/4.徵/杜仲.md",
     "本草新编/2.商/补骨脂.md",
     "本草新编/5.羽/胡桃肉.md",
     "胡桃.md",
     "本草新编/5.羽/核桃仁.md",
     "本草新编/4.徵/酸枣仁.md",
-    "本草新编/4.徵/辛夷.md",
-    "本草新编/4.徵/地骨皮.md",
-    "本草新编/4.徵/枸杞子.md"
+    "本草新编/4.徵/辛夷.md"
   ]
 }
