@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/桑叶.md",
+            "file": "本草新编/4.徵/桑葚.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/桑叶.md",
+            "file": "本草新编/4.徵/桑葚.md",
             "mode": "source"
           }
         },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/桑叶.md",
+                "file": "本草新编/4.徵/桑葚.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/桑叶.md"
+                "file": "本草新编/4.徵/桑葚.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/桑葚.md",
     "本草新编/4.徵/桑叶.md",
     "本草新编/2.商/山药.md",
     "本草新编/2.商/何首乌.md",
@@ -154,7 +155,6 @@
     "本草新编/4.徵/桑白皮.md",
     "本草新编/4.徵/厚朴.md",
     "本草新编/4.徵/女贞子.md",
-    "本草新编/4.徵/枳实.md",
-    "本草新编/4.徵/槐实.md"
+    "本草新编/4.徵/枳实.md"
   ]
 }
