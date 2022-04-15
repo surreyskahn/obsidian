@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/大腹皮.md",
+            "file": "本草新编/4.徵/槟榔.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/大腹皮.md",
+                "file": "本草新编/4.徵/槟榔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/大腹皮.md"
+                "file": "本草新编/4.徵/槟榔.md"
               }
             }
           },
@@ -131,6 +131,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/槟榔.md",
     "本草新编/4.徵/大腹皮.md",
     "本草新编/4.徵/钩藤.md",
     "本草新编/4.徵/吴茱萸.md",
@@ -139,7 +140,6 @@
     "本草新编/4.徵/猪苓.md",
     "本草新编/4.徵/蔓荆子.md",
     "本草新编/4.徵/接骨木.md",
-    "本草新编/4.徵/山茱萸.md",
-    "本草新编/4.徵/使君子.md"
+    "本草新编/4.徵/山茱萸.md"
   ]
 }
