@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/皂荚.md",
+            "file": "本草新编/2.商/补骨脂.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "山萸肉",
+                "query": "桃仁",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/皂荚.md",
+                "file": "本草新编/2.商/补骨脂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/皂荚.md"
+                "file": "本草新编/2.商/补骨脂.md"
               }
             }
           },
@@ -130,15 +131,15 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/2.商/补骨脂.md",
+    "本草新编/1.宫/甘草.md",
+    "本草新编/5.羽/桃仁.md",
+    "本草新编/5.羽/桃核（仁）.md",
     "本草新编/4.徵/皂荚.md",
     "本草新编/4.徵/五倍子.md",
     "本草新编/4.徵/槟榔.md",
     "本草新编/4.徵/大腹皮.md",
     "本草新编/4.徵/钩藤.md",
-    "本草新编/4.徵/吴茱萸.md",
-    "本草新编/4.徵/蜀椒.md",
-    "本草新编/4.徵/南烛枝叶.md",
-    "本草新编/4.徵/猪苓.md",
-    "本草新编/4.徵/蔓荆子.md"
+    "本草新编/4.徵/吴茱萸.md"
   ]
 }
