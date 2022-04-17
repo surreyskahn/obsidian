@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/沉香.md",
+            "file": "本草新编/4.徵/乳香.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/沉香.md",
+                "file": "本草新编/4.徵/乳香.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/沉香.md"
+                "file": "本草新编/4.徵/乳香.md"
               }
             }
           },
@@ -131,6 +131,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/乳香.md",
     "本草新编/4.徵/沉香.md",
     "本草新编/4.徵/血竭.md",
     "本草新编/4.徵/乌药.md",
@@ -139,7 +140,6 @@
     "本草新编/1.宫/甘草.md",
     "本草新编/5.羽/桃仁.md",
     "本草新编/5.羽/桃核（仁）.md",
-    "本草新编/4.徵/五倍子.md",
-    "本草新编/4.徵/槟榔.md"
+    "本草新编/4.徵/五倍子.md"
   ]
 }
