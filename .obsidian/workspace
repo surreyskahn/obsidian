@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/麦芽.md",
+            "file": "本草新编/4.徵/赤小豆.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/麦芽.md",
+                "file": "本草新编/4.徵/赤小豆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/麦芽.md"
+                "file": "本草新编/4.徵/赤小豆.md"
               }
             }
           },
@@ -132,6 +132,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/赤小豆.md",
     "本草新编/4.徵/麦芽.md",
     "本草新编/4.徵/雷丸.md",
     "本草新编/4.徵/没药.md",
@@ -140,7 +141,6 @@
     "本草新编/4.徵/乳香.md",
     "本草新编/4.徵/沉香.md",
     "本草新编/4.徵/血竭.md",
-    "本草新编/4.徵/乌药.md",
-    "本草新编/4.徵/皂荚.md"
+    "本草新编/4.徵/乌药.md"
   ]
 }
