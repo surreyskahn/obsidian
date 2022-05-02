@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/火麻子.md",
+            "file": "本草新编/4.徵/神曲.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/火麻子.md",
+                "file": "本草新编/4.徵/神曲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/火麻子.md"
+                "file": "本草新编/4.徵/神曲.md"
               }
             }
           },
@@ -132,6 +132,7 @@
   },
   "active": "2c597fb4d975cd5f",
   "lastOpenFiles": [
+    "本草新编/4.徵/神曲.md",
     "本草新编/4.徵/火麻子.md",
     "本草新编/4.徵/巨胜子.md",
     "本草新编/4.徵/黑芝麻.md",
@@ -140,7 +141,6 @@
     "本草新编/4.徵/麦芽.md",
     "本草新编/4.徵/雷丸.md",
     "本草新编/4.徵/没药.md",
-    "本草新编/4.徵/阿魏.md",
-    "本草新编/4.徵/丁香.md"
+    "本草新编/4.徵/阿魏.md"
   ]
 }
