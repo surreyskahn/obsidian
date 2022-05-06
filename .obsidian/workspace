@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c597fb4d975cd5f",
+        "id": "5a24c1f1c70759ae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "mindmapview",
           "state": {
-            "file": "张仲景的辨病框架.md",
-            "mode": "preview"
+            "file": "张仲景的辨病框架.md"
           }
         }
       }
@@ -129,7 +128,7 @@
     "direction": "horizontal",
     "width": 208.5
   },
-  "active": "2c597fb4d975cd5f",
+  "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
     "张仲景的辨病框架.md",
     "本草新编/4.徵/瓜蒂.md",
