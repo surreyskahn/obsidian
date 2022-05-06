@@ -7,9 +7,10 @@
         "id": "5a24c1f1c70759ae",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "张仲景的辨病框架.md"
+            "file": "本草新编/4.徵/瓜蒂.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "张仲景的辨病框架.md",
+                "file": "本草新编/4.徵/瓜蒂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "张仲景的辨病框架.md"
+                "file": "本草新编/4.徵/瓜蒂.md"
               }
             }
           },
@@ -130,8 +131,8 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
-    "张仲景的辨病框架.md",
     "本草新编/4.徵/瓜蒂.md",
+    "张仲景的辨病框架.md",
     "本草新编/4.徵/莱菔子.md",
     "本草新编/4.徵/白芥子.md",
     "本草新编/4.徵/干姜.md",
