@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/石膏.md",
+            "file": "本草新编/5.羽/硫黄.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "五脏",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/石膏.md",
+                "file": "本草新编/5.羽/硫黄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/石膏.md"
+                "file": "本草新编/5.羽/硫黄.md"
               }
             }
           },
@@ -133,6 +131,8 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/5.羽/硫黄.md",
+    "硫磺.md",
     "本草新编/5.羽/石膏.md",
     "本草新编/5.羽/禹余粮.md",
     "本草新编/5.羽/阳起石.md",
@@ -140,8 +140,6 @@
     "本草新编/5.羽/白果.md",
     "本草新编/5.羽/橄榄.md",
     "本草新编/5.羽/胡桃肉.md",
-    "本草新编/5.羽/山楂.md",
-    "本草新编/5.羽/木通.md",
-    "本草新编/5.羽/金樱子.md"
+    "本草新编/5.羽/山楂.md"
   ]
 }
