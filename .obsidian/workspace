@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/莲子.md",
+            "file": "本草新编/5.羽/芡实.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/莲子.md",
+                "file": "本草新编/5.羽/芡实.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/莲子.md"
+                "file": "本草新编/5.羽/芡实.md"
               }
             }
           },
@@ -132,6 +132,7 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/5.羽/芡实.md",
     "本草新编/5.羽/莲子.md",
     "本草新编/5.羽/郁李仁.md",
     "本草新编/5.羽/枇杷叶.md",
@@ -140,7 +141,6 @@
     "本草新编/5.羽/大枣.md",
     "本草新编/5.羽/乌梅.md",
     "本草新编/5.羽/木瓜.md",
-    "本草新编/5.羽/杏仁.md",
-    "本草新编/5.羽/桃仁.md"
+    "本草新编/5.羽/杏仁.md"
   ]
 }
