@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/白果.md",
+            "file": "本草新编/5.羽/丹砂.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/白果.md",
+                "file": "本草新编/5.羽/丹砂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/白果.md"
+                "file": "本草新编/5.羽/丹砂.md"
               }
             }
           },
@@ -132,6 +132,7 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/5.羽/丹砂.md",
     "本草新编/5.羽/白果.md",
     "本草新编/5.羽/橄榄.md",
     "本草新编/5.羽/胡桃肉.md",
@@ -140,7 +141,6 @@
     "本草新编/5.羽/金樱子.md",
     "本草新编/5.羽/覆盆子.md",
     "本草新编/5.羽/甘蔗.md",
-    "本草新编/5.羽/芡实.md",
-    "本草新编/5.羽/莲子.md"
+    "本草新编/5.羽/芡实.md"
   ]
 }
