@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/磁石.md",
+            "file": "本草新编/3.角/延胡索.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166.5,
-    "collapsed": true
+    "width": 166.5
   },
   "right": {
     "id": "8c41c12251f33004",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/磁石.md",
+                "file": "本草新编/3.角/延胡索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/磁石.md"
+                "file": "本草新编/3.角/延胡索.md"
               }
             }
           },
@@ -132,6 +131,7 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/3.角/延胡索.md",
     "本草新编/5.羽/磁石.md",
     "本草新编/5.羽/矾石.md",
     "本草新编/5.羽/花蕊石.md",
@@ -140,7 +140,6 @@
     "本草新编/5.羽/代赭石.md",
     "本草新编/5.羽/石钟乳.md",
     "本草新编/5.羽/寒水石.md",
-    "本草新编/5.羽/赤石脂.md",
-    "本草新编/5.羽/硫黄.md"
+    "本草新编/5.羽/赤石脂.md"
   ]
 }
