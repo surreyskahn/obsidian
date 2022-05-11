@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/腽肭脐.md",
+            "file": "本草新编/5.羽/雀卵.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/腽肭脐.md",
+                "file": "本草新编/5.羽/雀卵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/腽肭脐.md"
+                "file": "本草新编/5.羽/雀卵.md"
               }
             }
           },
@@ -131,6 +131,8 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/5.羽/雀卵.md",
+    "本草新编/5.羽/猬皮.md",
     "本草新编/5.羽/腽肭脐.md",
     "本草新编/5.羽/獭肝.md",
     "本草新编/5.羽/驴鞭.md",
@@ -138,8 +140,6 @@
     "本草新编/5.羽/羚羊角.md",
     "本草新编/5.羽/犀角.md",
     "本草新编/5.羽/鹿茸.md",
-    "本草新编/5.羽/熊胆.md",
-    "本草新编/5.羽/阿胶.md",
-    "本草新编/5.羽/驴溺.md"
+    "本草新编/5.羽/熊胆.md"
   ]
 }
