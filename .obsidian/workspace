@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/5.羽/月水.md",
+            "file": "本草新编/5.羽/水.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#肺经",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/5.羽/月水.md",
+                "file": "本草新编/5.羽/水.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/5.羽/月水.md"
+                "file": "本草新编/5.羽/水.md"
               }
             }
           },
@@ -132,6 +132,7 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/5.羽/水.md",
     "本草新编/5.羽/月水.md",
     "本草新编/5.羽/浣裤汁.md",
     "本草新编/5.羽/童便.md",
@@ -140,7 +141,6 @@
     "本草新编/5.羽/紫河车.md",
     "本草新编/5.羽/海螵蛸.md",
     "本草新编/5.羽/龙骨.md",
-    "本草新编/5.羽/水蛭.md",
-    "本草新编/5.羽/牡蛎.md"
+    "本草新编/5.羽/水蛭.md"
   ]
 }
