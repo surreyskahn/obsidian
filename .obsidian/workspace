@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/4.徵/枳实.md",
+            "file": "本草新编/4.徵/淫羊藿.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "命门",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/4.徵/枳实.md",
+                "file": "本草新编/4.徵/淫羊藿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/4.徵/枳实.md"
+                "file": "本草新编/4.徵/淫羊藿.md"
               }
             }
           },
@@ -131,6 +132,8 @@
   },
   "active": "5a24c1f1c70759ae",
   "lastOpenFiles": [
+    "本草新编/4.徵/淫羊藿.md",
+    "本草新编/1.宫/白术.md",
     "本草新编/4.徵/枳实.md",
     "本草新编/3.角/茵陈.md",
     "本草新编/5.羽/虎.md",
@@ -138,8 +141,6 @@
     "枳壳.md",
     "本草新编/2.商/巴戟天.md",
     "本草新编/3.角/拓木枝.md",
-    "本草新编/5.羽/火.md",
-    "本草新编/5.羽/水.md",
-    "本草新编/5.羽/月水.md"
+    "本草新编/5.羽/火.md"
   ]
 }
