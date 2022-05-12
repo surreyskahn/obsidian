@@ -7,9 +7,10 @@
         "id": "fd406d8827f4d26d",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "2、三分疾病框架.md"
+            "file": "2、三分疾病框架.md",
+            "mode": "source"
           }
         }
       }
