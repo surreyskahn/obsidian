@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1、张仲景的辨病框架.md",
+            "file": "2、三分疾病框架.md",
             "mode": "source"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、张仲景的辨病框架.md",
+                "file": "2、三分疾病框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1、张仲景的辨病框架.md"
+                "file": "2、三分疾病框架.md"
               }
             }
           },
@@ -131,8 +131,8 @@
   },
   "active": "fd406d8827f4d26d",
   "lastOpenFiles": [
-    "1、张仲景的辨病框架.md",
     "2、三分疾病框架.md",
+    "1、张仲景的辨病框架.md",
     "本草新编/1.宫/当归.md",
     "本草新编/1.宫/白术.md",
     "本草新编/4.徵/淫羊藿.md",
