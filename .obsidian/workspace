@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5a24c1f1c70759ae",
+        "id": "04af8084cf6f0d63",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "张仲景的辨病框架.md"
+            "file": "张仲景的辨病框架.md",
+            "mode": "source"
           }
         }
       }
@@ -126,19 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 171.5
   },
-  "active": "5a24c1f1c70759ae",
+  "active": "04af8084cf6f0d63",
   "lastOpenFiles": [
     "张仲景的辨病框架.md",
-    "本草新编/4.徵/淫羊藿.md",
+    "本草新编/1.宫/当归.md",
     "本草新编/1.宫/白术.md",
+    "本草新编/4.徵/淫羊藿.md",
     "本草新编/4.徵/枳实.md",
     "本草新编/3.角/茵陈.md",
     "本草新编/5.羽/虎.md",
     "本草新编/3.角/地栗粉.md",
     "枳壳.md",
-    "本草新编/2.商/巴戟天.md",
-    "本草新编/3.角/拓木枝.md"
+    "本草新编/2.商/巴戟天.md"
   ]
 }
