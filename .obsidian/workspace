@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fd406d8827f4d26d",
+        "id": "0666bc5000ab0301",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "shanghan/3、六经病框架.md"
+            "file": "shanghan/3、六经病框架.md",
+            "mode": "source"
           }
         }
       }
@@ -128,7 +129,7 @@
     "direction": "horizontal",
     "width": 171.5
   },
-  "active": "fd406d8827f4d26d",
+  "active": "0666bc5000ab0301",
   "lastOpenFiles": [
     "shanghan/3、六经病框架.md",
     "shanghan/2.png",
