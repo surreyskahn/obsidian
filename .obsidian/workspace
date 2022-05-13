@@ -7,9 +7,10 @@
         "id": "fd406d8827f4d26d",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "shanghan/2、三分疾病框架.md"
+            "file": "shanghan/3、六经病框架.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shanghan/2、三分疾病框架.md",
+                "file": "shanghan/3、六经病框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shanghan/2、三分疾病框架.md"
+                "file": "shanghan/3、六经病框架.md"
               }
             }
           },
@@ -130,15 +131,15 @@
   },
   "active": "fd406d8827f4d26d",
   "lastOpenFiles": [
+    "shanghan/3、六经病框架.md",
     "shanghan/2、三分疾病框架.md",
-    "Python.md",
     "shanghan/1、张仲景的辨病框架.md",
+    "Python.md",
     "本草新编/1.宫/当归.md",
     "本草新编/1.宫/白术.md",
     "本草新编/4.徵/淫羊藿.md",
     "本草新编/4.徵/枳实.md",
     "本草新编/3.角/茵陈.md",
-    "本草新编/5.羽/虎.md",
-    "本草新编/3.角/地栗粉.md"
+    "本草新编/5.羽/虎.md"
   ]
 }
