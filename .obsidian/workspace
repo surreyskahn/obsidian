@@ -7,10 +7,9 @@
         "id": "0666bc5000ab0301",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "shanghan/3、六经病框架.md",
-            "mode": "preview"
+            "file": "Pasted image 20220513083741.png"
           }
         }
       }
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shanghan/3、六经病框架.md",
+                "file": "Pasted image 20220513083741.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shanghan/3、六经病框架.md"
+                "file": "Pasted image 20220513083741.png"
               }
             }
           },
@@ -131,6 +130,7 @@
   },
   "active": "0666bc5000ab0301",
   "lastOpenFiles": [
+    "Pasted image 20220513083741.png",
     "shanghan/3、六经病框架.md",
     "shanghan/3.png",
     "shanghan/2.png",
@@ -139,7 +139,6 @@
     "Python.md",
     "本草新编/1.宫/当归.md",
     "本草新编/1.宫/白术.md",
-    "本草新编/4.徵/淫羊藿.md",
-    "本草新编/4.徵/枳实.md"
+    "本草新编/4.徵/淫羊藿.md"
   ]
 }
