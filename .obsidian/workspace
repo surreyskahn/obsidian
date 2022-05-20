@@ -7,9 +7,10 @@
         "id": "0666bc5000ab0301",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220513083741.png"
+            "file": "4、广义伤寒病框架.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220513083741.png",
+                "file": "4、广义伤寒病框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220513083741.png"
+                "file": "4、广义伤寒病框架.md"
               }
             }
           },
@@ -130,15 +131,15 @@
   },
   "active": "0666bc5000ab0301",
   "lastOpenFiles": [
-    "Pasted image 20220513083741.png",
-    "shanghan/3、六经病框架.md",
-    "shanghan/3.png",
-    "shanghan/2.png",
-    "shanghan/2、三分疾病框架.md",
+    "4、广义伤寒病框架.md",
     "shanghan/1、张仲景的辨病框架.md",
-    "Python.md",
-    "本草新编/1.宫/当归.md",
-    "本草新编/1.宫/白术.md",
-    "本草新编/4.徵/淫羊藿.md"
+    "shanghan/3、六经病框架.md",
+    "shanghan/2、三分疾病框架.md",
+    "Pasted image 20220513083741.png",
+    "shanghan/3.png",
+    "shanghan/4.png",
+    "shanghan/5.png",
+    "shanghan/2.png",
+    "Python.md"
   ]
 }
