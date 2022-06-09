@@ -68,8 +68,17 @@
               "type": "toggl-report",
               "state": {}
             }
+          },
+          {
+            "id": "e48eed85d56fdeee",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f7011923507e6134",
@@ -126,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171.5
+    "width": 267.1000061035156
   },
   "active": "0666bc5000ab0301",
   "lastOpenFiles": [
