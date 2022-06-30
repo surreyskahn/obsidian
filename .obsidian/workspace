@@ -7,9 +7,10 @@
         "id": "0666bc5000ab0301",
         "type": "leaf",
         "state": {
-          "type": "mindmapview",
+          "type": "markdown",
           "state": {
-            "file": "shanghan/1、张仲景的辨病框架.md"
+            "file": "本草新编/1.宫/白术.md",
+            "mode": "source"
           }
         }
       }
@@ -47,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shanghan/1、张仲景的辨病框架.md",
+                "file": "本草新编/1.宫/白术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shanghan/1、张仲景的辨病框架.md"
+                "file": "本草新编/1.宫/白术.md"
               }
             }
           },
@@ -139,15 +141,15 @@
   },
   "active": "0666bc5000ab0301",
   "lastOpenFiles": [
+    "本草新编/1.宫/白术.md",
     "shanghan/1、张仲景的辨病框架.md",
     "shanghan/2、三分疾病框架.md",
-    "4、广义伤寒病框架.md",
+    "shanghan/4、广义伤寒病框架.md",
     "shanghan/3、六经病框架.md",
     "Pasted image 20220513083741.png",
     "shanghan/3.png",
     "shanghan/4.png",
     "shanghan/5.png",
-    "shanghan/2.png",
-    "Python.md"
+    "shanghan/2.png"
   ]
 }
