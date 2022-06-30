@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "本草新编/1.宫/白术.md",
-            "mode": "source"
+            "file": "本草新编/4.徵/桂枝.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "桂枝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本草新编/1.宫/白术.md",
+                "file": "本草新编/4.徵/桂枝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本草新编/1.宫/白术.md"
+                "file": "本草新编/4.徵/桂枝.md"
               }
             }
           },
@@ -141,6 +141,8 @@
   },
   "active": "0666bc5000ab0301",
   "lastOpenFiles": [
+    "本草新编/4.徵/桂枝.md",
+    "本草新编/1.宫/人参.md",
     "本草新编/1.宫/白术.md",
     "shanghan/1、张仲景的辨病框架.md",
     "shanghan/2、三分疾病框架.md",
@@ -148,8 +150,6 @@
     "shanghan/3、六经病框架.md",
     "Pasted image 20220513083741.png",
     "shanghan/3.png",
-    "shanghan/4.png",
-    "shanghan/5.png",
-    "shanghan/2.png"
+    "shanghan/4.png"
   ]
 }
